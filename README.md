@@ -15,11 +15,6 @@ Este projeto é um sistema simples de compra de ingressos. Você pode selecionar
 2. Escolha o tipo de ingresso e a quantidade desejada.
 3. Clique em "Comprar" para finalizar a compra.
 
-## 🔗 Acesso ao Projeto
-
-[Link de Acesso](https://e-ticket-taupe.vercel.app/)
-
-
 ## 📸 Imagem do Programa
 
 ![Imagem do Programa](./assets/PNG/programa.PNG)

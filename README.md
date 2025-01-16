@@ -17,7 +17,7 @@ Este projeto é um sistema simples de compra de ingressos. Você pode selecionar
 
 ## 🔗 Acesso ao Projeto
 
-[Link de Acesso](https://www.exemplo.com)
+[Link de Acesso](https://e-ticket-taupe.vercel.app/)
 
 
 ## 📸 Imagem do Programa
